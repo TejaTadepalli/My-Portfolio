@@ -1,3 +1,13 @@
+# Portfolio Website made using TailwindCSS and ReactJS
+<img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="70" alt="TailwindCSS"> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="70" alt="React">
+
+In this build, the following was done:
+- Use of React, TailwindCSS to build a Developer Portfolio Website
+- Understood various TailwindCSS components for *className* component
+- Understood how to map various components in React using arrays
+
+#### *Need to create a website to use this portfolio site*
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
