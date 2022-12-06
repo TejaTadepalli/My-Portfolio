@@ -6,7 +6,10 @@ In this build, the following was done:
 - Understood various TailwindCSS components for *className* component
 - Understood how to map various components in React using arrays
 
-#### *Need to create a website to use this portfolio site*
+Current build can be accessed at: [My-Portfolio](https://my-portfolio-lac-rho.vercel.app/)
+
+# Output:
+![Screen](https://user-images.githubusercontent.com/91416443/206002795-26269a6a-efda-4ad1-bf9f-5db619335937.png)
 
 # Getting Started with Create React App
 
