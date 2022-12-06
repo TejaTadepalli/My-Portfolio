@@ -14,6 +14,13 @@ const Projects = () => {
             demo:"https://netflix-clone-teja.netlify.app/",
             code:"https://github.com/TejaTadepalli/Netflix-Clone",
         },
+        {
+            title:"Portfolio",
+            duration:"1 Week",
+            type:"Collaborative",
+            demo:"https://my-portfolio-lac-rho.vercel.app/",
+            code:"https://github.com/TejaTadepalli/My-Portfolio",
+        },
     ];
 
     return <>
