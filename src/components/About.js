@@ -6,11 +6,9 @@ const About=()=>{
             <h1 className={"text-4xl text-black font-bold"}>About Me</h1>
             <div className={"w-3/5 flex flex-col gap-4"}>
                 <p className={"text-lg text-black font-medium text-center"}>
-                    Hey this is <strong className={"text-blue-800"}>Teja Tadepalli</strong>. I'm in my Third Year of <strong className={"text-blue-800"}>Computer Engineering</strong>. 
-                    I am passionate about learning new things and building things that help people. I am currently learning <strong className={"text-blue-800"}>ReactJS</strong> and 
-                    other <strong className={"text-blue-800"}>Web Development</strong> Technologies. I also want to explore <strong className={"text-blue-800"}>Data Science</strong> 
-                    as a career option. I love <strong className={"text-orange-500"}>music</strong>, <strong className={"text-orange-500"}>art</strong> and <strong className={"text-orange-500"}>
-                    reading books</strong>.
+                    Hey this is <strong className={"text-blue-800"}>Teja Tadepalli</strong>. I'm in my Third Year of <strong className={"text-blue-800"}>Computer Engineering</strong>. I am passionate about learning new things and building things that help people. I am currently learning <strong className={"text-blue-800"}>ReactJS</strong> and 
+                    other <strong className={"text-blue-800"}>Web Development</strong> Technologies. I also want to explore <strong className={"text-blue-800"}>Data Science</strong> as a career option. I love <strong className={"text-orange-500"}>music</strong>, <strong className={"text-orange-500"}>art</strong> and 
+                    <strong className={"text-orange-500"}>reading books</strong>.
                 </p>
                 <div className={"flex flex-col items-center bg-purple-500 dark:bg-violet-800 border-2 border-dashed border-white rounded-full py-4"}>
                     <h3 className={"text-2xl font-bold text-white"}>Contact Details:</h3>
