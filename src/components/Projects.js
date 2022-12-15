@@ -28,6 +28,13 @@ const Projects = () => {
             demo:"https://github.com/TejaTadepalli/FIFA-2022-World-Cup-Prediction/blob/main/FIFA2022_predictions.ipynb",
             code:"https://github.com/TejaTadepalli/FIFA-2022-World-Cup-Prediction",
         },
+        {
+            title:"Sales Analysis",
+            duration:"2 Days",
+            type:"Individual",
+            demo:"https://github.com/TejaTadepalli/Sales-Analysis/blob/main/SalesAnalysis.ipynb",
+            code:"https://github.com/TejaTadepalli/Sales-Analysis",
+        },
     ];
 
     return <>
