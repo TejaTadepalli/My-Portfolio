@@ -21,6 +21,13 @@ const Projects = () => {
             demo:"https://my-portfolio-lac-rho.vercel.app/",
             code:"https://github.com/TejaTadepalli/My-Portfolio",
         },
+        {
+            title:"FIFA 2022 World Cup: Prediction",
+            duration:"2 Days",
+            type:"Individual",
+            demo:"https://github.com/TejaTadepalli/FIFA-2022-World-Cup-Prediction/blob/main/FIFA2022_predictions.ipynb",
+            code:"https://github.com/TejaTadepalli/FIFA-2022-World-Cup-Prediction",
+        },
     ];
 
     return <>
