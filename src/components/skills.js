@@ -66,6 +66,10 @@ const Skills = () => {
             name:"Visual Studio Code",
             src:"https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"
         },
+        {
+            name:"Socket.IO",
+            src:"https://cdn.worldvectorlogo.com/logos/socket-io.svg"
+        },
     ];
 
 return<>
