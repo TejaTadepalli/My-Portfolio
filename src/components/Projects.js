@@ -35,6 +35,13 @@ const Projects = () => {
             demo:"https://github.com/TejaTadepalli/Sales-Analysis/blob/main/SalesAnalysis.ipynb",
             code:"https://github.com/TejaTadepalli/Sales-Analysis",
         },
+        {
+            title:"Memory Monitor",
+            duration:"2 Days",
+            type:"Individual",
+            demo:"https://github.com/TejaTadepalli/Memory-Monitor",
+            code:"https://github.com/TejaTadepalli/Memory-Monitor",
+        },
     ];
 
     return <>
