@@ -42,6 +42,13 @@ const Projects = () => {
             demo:"https://github.com/TejaTadepalli/Memory-Monitor",
             code:"https://github.com/TejaTadepalli/Memory-Monitor",
         },
+        {
+            title:"Python Minesweeper Game",
+            duration:"1 Week",
+            type:"Collaborative",
+            demo:"https://github.com/TejaTadepalli/Python-Minesweeper",
+            code:"https://github.com/TejaTadepalli/Python-Minesweeper",
+        },
     ];
 
     return <>
